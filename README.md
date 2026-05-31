@@ -34,7 +34,9 @@ java CamelCaseFinder
 **Запуск**:
 ```bash
 javac IPAddressValidator.java
-java IPAddressValidator```
+java IPAddressValidator
+```
+
 ### 5. WordSearcher.java
 Программа для поиска в тексте всех слов, начинающихся с определенной буквы. Поиск не зависит от регистра (учитываются как строчные, так и заглавные первые буквы).
 
